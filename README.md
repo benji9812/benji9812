@@ -17,8 +17,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=benji9812&theme=tokyo-night&hide_border=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=benji9812&icon=6&color=2)](https://visitcount.itsvg.in)
