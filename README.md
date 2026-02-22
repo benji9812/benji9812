@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=benji9812&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+![Benji's Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=benji9812&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=benji9812&icon=6&color=2)](https://visitcount.itsvg.in)
