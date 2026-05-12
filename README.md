@@ -69,6 +69,9 @@ Backend Developer (Cloud) student focused on building practical software — fro
 [![Benjamin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=benji9812&theme=github-dark&hide_border=true&area=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benji9812&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=benji9812&theme=midnight-purple&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benji9812&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=benji9812&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=benji9812&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=benji9812&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
