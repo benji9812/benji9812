@@ -18,7 +18,7 @@ Backend Developer (Cloud) student focused on building practical software — fro
 - Tools, automation and side projects that solve practical everyday problems.
 
 ## 🚀 Featured Projects
-- **AI Music Workstation** — WPF desktop app with a Python/FastAPI backend for stem separation, chord/tempo analysis and audio-focused workflows.
+- **AI Music Workstation** — Full-stack cloud web app for AI-powered music analysis. React frontend on Vercel, .NET Web API on Azure Web App, Python analysis engine on Azure VM, and a PostgreSQL database on Supabase via EF Core Code First migrations.
 - **Contract Analyzer** — C# .NET backend with React frontend for AI-powered legal document analysis using Claude/Gemini.
 - **Frostheim Saga** — C# project exploring logic, structure and interaction in a game-oriented format.
 - **Gothenburg Bar Map** — interactive web project combining frontend visualization with external data services.
