@@ -1,8 +1,8 @@
-# Hey, I’m Benjamin 👋
+# Hey, I'm Benjamin 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1800&color=A970FF&width=760&lines=Backend-focused+developer+student.;Building+APIs%2C+desktop+apps+and+practical+tools.;Cloud%2C+.NET%2C+automation+and+creative+tech.;Always+learning%2C+building+and+improving.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A970FF&width=760&lines=Backend-focused+developer+student.;Building+APIs%2C+desktop+apps+and+practical+tools.;Cloud%2C+.NET%2C+AI+integrations+and+creative+tech.;Always+learning%2C+building+and+improving.)](https://git.io/typing-svg)
 
-Backend Developer (Cloud) student focused on building practical software — from APIs and backend systems to desktop apps, web projects and useful tools.
+Backend Developer (Cloud) student focused on building practical software — from APIs and backend systems to desktop apps, web projects and AI-powered tools.
 
 ## 💫 About Me
 - Backend-focused developer student with a strong interest in structured, maintainable and practical software.
@@ -14,21 +14,19 @@ Backend Developer (Cloud) student focused on building practical software — fro
 - SQL-backed applications with focus on clean structure and maintainability.
 - Desktop applications in WPF.
 - Web apps and interfaces with React, TypeScript and Vite.
+- AI integrations via LLM APIs (Claude, Gemini) for automation, text processing and smarter workflows.
 - Tools, automation and side projects that solve practical everyday problems.
 
 ## 🚀 Featured Projects
-- **AI Music Workstation** — WPF desktop app with a Python/FastAPI backend for audio-focused workflows.
+- **AI Music Workstation** — WPF desktop app with a Python/FastAPI backend for stem separation, chord/tempo analysis and audio-focused workflows.
+- **Contract Analyzer** — C# .NET backend with React frontend for AI-powered legal document analysis using Claude/Gemini.
 - **Frostheim Saga** — C# project exploring logic, structure and interaction in a game-oriented format.
 - **Gothenburg Bar Map** — interactive web project combining frontend visualization with external data services.
 - **LifeSync Bot** — Node.js bot built around automation and utility.
-- **Adventurer’s Journal** — collaborative group project highlighting teamwork, planning and Git workflow.
+- **Adventurer's Journal** — collaborative group project highlighting teamwork, planning and Git workflow.
 
 ## 🌐 Portfolio & Contact
-[Portfolio & CV](https://benji9812.github.io/Portfolio/)  
-[LinkedIn](https://www.linkedin.com/in/benjamin-wederbrand-519463168)  
-[Email](mailto:Benjiw98@gmail.com)  
-[Discord](https://discord.com/users/165541792152944640)  
-[Instagram](https://www.instagram.com/benjaminwederbrand/)
+[Portfolio & CV](https://benji9812.github.io/Portfolio/) | [LinkedIn](https://www.linkedin.com/in/benjaminwederbrand) | [Email](mailto:Benjiw98@gmail.com) | [Discord](https://discord.com/users/165541792152944640) | [Instagram](https://www.instagram.com/benjaminwederbrand/)
 
 ## 💻 Tech Stack
 
@@ -43,7 +41,10 @@ Backend Developer (Cloud) student focused on building practical software — fro
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=.net&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### AI & Integrations
+![Claude](https://img.shields.io/badge/Claude-D4A017?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -51,7 +52,7 @@ Backend Developer (Cloud) student focused on building practical software — fro
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ### Databases
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Cloud & DevOps
@@ -63,15 +64,4 @@ Backend Developer (Cloud) student focused on building practical software — fro
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-## 📈 Activity
-[![Benjamin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=benji9812&theme=github-dark&hide_border=true&area=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=benji9812&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=benji9812&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=benji9812&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
